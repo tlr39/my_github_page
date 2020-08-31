@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Letter type="personal">
+    <sender>Lord Byron</sender>
+    <recieptiant>John Murray</recieptiant>
+    <dialoge> So you and Mr. Foscolo, etc. want me to undertake what you call a ‘great work?’ an Epic Poem, I suppose, or some such pyramid. I’ll try no such thing; I hate tasks. And then “seven or eight years!” </dialoge>
+    <dialoge type="question"> God send us all well this day three months, let alone years. If one’s years can’t be better employed than in sweating poesy, a man had better be a ditcher. And works, too! – is Childe Harold nothing? </dialoge>
+    <dialoge type="concern">You have so many “divine” poems, is it nothing to have written a human one? without any of your worn-out machinery. Why, man, I could have spun the thoughts of the four cantos of that poem into twenty, had I wanted to book-make, and its passion into as many modern tragedies. </dialoge>
+    <dialoge type="price">Since you want length, you shall have enough of Juan, for I’ll make fifty cantos. </dialoge>
+    <dialoge type="affirmation"> Besides, I mean to write my best work in <language type="foreign">Italian</language>, and it will take me nine years more thoroughly to master the language; and then if my fancy exists, and I exist too, I will try what I can do really.</dialoge>
+    <dialoge type="insult"> As to the estimation of the English which you talk of, let them calculate what it is worth, before they insult me with their insolent condescension.</dialoge>
+    <dialoge> I have not written for their pleasure. If they are pleased, it is that they chose to be so; I have never flattered their opinions, nor their pride; nor will I. </dialoge>
+    <dialoge type="self affirmation">Neither will I make “Ladies’ books” <language type="foreign"> al dilettar le femine e la plebe.</language> I have written from the fulness of my mind, from passion, from impulse, from many sweet motives, but not for their “sweet voices.”</dialoge>
+    <dialoge type="relfection"> I know the precise worth of popular applause, for few scribblers have had more of it; and if I chose to swerve into their paths, I could retain it, or resume it. </dialoge>
+    <dialoge type="relfection">But I neither love ye, nor fear ye; and though I buy with ye and sell with ye, I will neither eat with ye, drink with ye, nor pray with ye. </dialoge>
+    <dialoge type="closing line">They made me, without my search, a species of popular idol; they, without reason or judgment, beyond the caprice of their good pleasure, threw down the image from its pedestal: it was not broken with the fall, and they would, it seems, again replace it, – but they shall not.</dialoge>
+    </Letter>
